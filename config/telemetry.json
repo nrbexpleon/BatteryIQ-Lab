@@ -1,0 +1,11 @@
+{
+  "name":"synthetic-drive-cycle",
+  "samples":[
+    {"timestampMs":0,"packVoltageV":400,"packCurrentA":0,"socPercent":90,"odometerKm":1000,"cellVoltagesV":[4.10,4.09,4.10,4.08],"temperaturesC":[25,26,25,26],"ambientC":22},
+    {"timestampMs":600000,"packVoltageV":392,"packCurrentA":60,"socPercent":80,"odometerKm":1012,"cellVoltagesV":[4.01,4.00,4.01,3.99],"temperaturesC":[30,31,30,32],"ambientC":23},
+    {"timestampMs":1200000,"packVoltageV":386,"packCurrentA":75,"socPercent":68,"odometerKm":1025,"cellVoltagesV":[3.93,3.91,3.92,3.89],"temperaturesC":[38,40,39,42],"ambientC":24},
+    {"timestampMs":1800000,"packVoltageV":380,"packCurrentA":40,"socPercent":60,"odometerKm":1035,"cellVoltagesV":[3.86,3.84,3.85,3.81],"temperaturesC":[43,45,44,48],"ambientC":25},
+    {"timestampMs":2400000,"packVoltageV":395,"packCurrentA":-50,"socPercent":68,"odometerKm":1035,"cellVoltagesV":[3.97,3.96,3.97,3.94],"temperaturesC":[40,42,41,44],"ambientC":25,"charging":true},
+    {"timestampMs":3000000,"packVoltageV":402,"packCurrentA":-45,"socPercent":76,"odometerKm":1035,"cellVoltagesV":[4.05,4.04,4.05,4.02],"temperaturesC":[38,40,39,42],"ambientC":24,"charging":true}
+  ]
+}

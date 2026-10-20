@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+coverage/
+artifacts/
+datasets/
+telemetry/
+*.csv
+*.parquet
+*.pem
+*.key
+*.log
+.DS_Store
