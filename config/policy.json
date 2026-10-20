@@ -1,0 +1,1 @@
+{"warningCellDeltaMv":30,"criticalCellDeltaMv":60,"warningTemperatureC":50,"criticalTemperatureC":60,"warningTemperatureSpreadC":12,"minCellVoltageV":2.5,"maxCellVoltageV":4.25,"maxAbsoluteCurrentA":500,"minimumChargeSocGainPercent":5,"referenceResistanceMohm":20}
